@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+nav {
+    background: linear-gradient(45deg, #007bff, #00bcd4);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, .5);
+    z-index: 1000;
+}
+.slider {
+    height: 80vh;
+    background: url('a.png') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-align: center;
+}
+.navbar{
+    color: black;
+}
